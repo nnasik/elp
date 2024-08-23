@@ -6,7 +6,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="../assets/img/c-1.jpg" class="d-block w-100" alt="First Slide">
+      <img src="assets/img/c-1.jpg" class="d-block w-100" alt="First Slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>First Slide Heading</h5>
         <p>This is the description for the first slide.</p>
