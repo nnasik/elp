@@ -14,10 +14,10 @@
         <a class="nav-link <?php echo ($currentPage == 'about.php') ? 'active' : ''; ?>" href="about.php">About Us</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link <?php echo ($currentPage == 'products.php') ? 'active' : ''; ?>" href="#">Products</a>
+        <a class="nav-link <?php echo ($currentPage == 'products.php') ? 'active' : ''; ?>" href="products.php">Products</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link <?php echo ($currentPage == 'contact.php') ? 'active' : ''; ?>" href="#">Contact</a>
+        <a class="nav-link <?php echo ($currentPage == 'contact.php') ? 'active' : ''; ?>" href="contact.php">Contact</a>
       </li>
     </ul>
   </div>

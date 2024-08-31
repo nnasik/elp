@@ -96,6 +96,7 @@
             </div>
         </div>
     </div>
+    <?php include 'includes/inquire.php'; ?>
     <?php include 'includes/footer.php'; ?>
 </body>
 
